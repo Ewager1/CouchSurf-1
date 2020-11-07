@@ -2,7 +2,7 @@
 
 A dashboard App to guide your internet desires
 
-[CouchSurf Link ](https://dustinerwin.github.io/CouchSurf/)
+[CouchSurf Link ](https://ewager1.github.io/CouchSurf-1/)
 ![Website Demo Picture](./assets/images/websiteDemoPic.png)
 
 ## Goal
