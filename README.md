@@ -1,11 +1,11 @@
 # CouchSurf
 
-A dashboard App to guide your internet desires
+A dashboard concept app that creates a customizable dashboard. The future goal of this would be to add spotify and other popular apps that the user can add or subtract from the dashboard homepage. 
 
 [CouchSurf Link ](https://ewager1.github.io/CouchSurf-1/)
 ![Website Demo Picture](./assets/images/websiteDemoPic.png)
 
-## Goal
+## Goals
 
 To create a Weather App with the following criteria:
 
